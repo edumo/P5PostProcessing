@@ -1,6 +1,7 @@
 P5PostProcessing
 ================
 
-Test with post processing in processing.org :)
+Tests with post processing in processing.org :)
 
  DOF example based on https://github.com/neilmendoza/ofxPostProcessing
+ GLOW example adapted from http://forum.devmaster.net/t/shader-effects-glow-and-bloom/3100
