@@ -1,8 +1,8 @@
 /**
+ adapted from http://forum.devmaster.net/t/shader-effects-glow-and-bloom/3100
  
- DOF example based on http://forum.devmaster.net/t/shader-effects-glow-and-bloom/3100
- 
- 
+ keys 1,2,3 change blendmode
+ keys 5,7,9 change blur parameters 
  
  **/
 
