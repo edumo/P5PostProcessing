@@ -7,4 +7,4 @@ Tests with post processing in processing.org :)
  
  GLOW example adapted from http://forum.devmaster.net/t/shader-effects-glow-and-bloom/3100
  
- FLOATPACK example packing depth float in texture with two bytes
+ Depth2bytes example packing depth float in texture with two bytes
